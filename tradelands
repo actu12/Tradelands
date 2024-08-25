@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/actu12/Tradelandsv1/main/AutoFarm",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/actu12/Tradelandsv1/main/AutoFarm",true))() - Updating for more features 
